@@ -1,4 +1,4 @@
-```markdown
+
 # Tweeter - Simplified Twitter-Like Backend System Documentation
 
 Welcome to the documentation for Tweeter - Simplified Twitter-Like Backend System. This system is designed to provide basic functionality similar to Twitter, including user registration, tweeting, and fetching user timelines.
